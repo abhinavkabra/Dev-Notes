@@ -1,12 +1,12 @@
-git branch
+-- git branch
 see all local branches you have for a repo and see which you are CURRENTLY on
-git checkout
+-- git checkout
 checkout an existing branch
-git checkout -b branch-name
+-- git checkout -b branch-name
 create a new branch with “branch-name” from current branch
-git add --all
+-- git add --all
 stage all changed files
-git commit -m
+-- git commit -m
 commit all staged files and write a description of what the commit does
 git push
 push commits to origin branch (follow directions first time to create origin branch on github)
